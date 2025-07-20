@@ -1,0 +1,48 @@
+.home-container {
+  text-align: center;
+  padding: 4rem;
+  background-image: url("C:\Users\hp\OneDrive\Desktop\Tracker\client\public\images\background.webp"); /* optional image */
+  background-size: cover;
+  background-position: center;
+  color: rgb(8, 8, 8);
+}
+
+.home-button {
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  background-color: #0ecccc;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 2rem;
+  display: inline-block;
+  transition: background-color 0.3s;
+}
+
+.home-button:hover {
+  background-color: #2193f1;
+}
+.home-footer {
+  margin-top: 4rem;
+  padding: 1rem;
+  background-color: #0ecccc;
+  color: #333;
+  text-align: center;
+  font-size: 0.9rem;
+  border-top: 1px solid #ddd;
+}
+
+.footer-links {
+  margin-top: 0.5rem;
+}
+
+.footer-links a {
+  margin: 0 1rem;
+  color: #080808;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  color: #007bff;
+}
