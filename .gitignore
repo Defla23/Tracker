@@ -1,3 +1,17 @@
+# Python virtual environments
 .venv/
+venv/
+server/.venv/
+server/venv/
+
+# Node dependencies
+node_modules/
 client/node_modules/
+
+# Environment variables
 .env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
